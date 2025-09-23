@@ -1,7 +1,3 @@
-Este é um resumo do material, com foco nos pontos importantes para a prova, e uma lista de exercícios com questões fechadas, conforme solicitado.
-
----
-
 ## Resumo e Pontos Importantes para a Prova
 
 ### 1. Fundamentos e Definição de Engenharia de Software (ES)
