@@ -121,9 +121,13 @@ DevOps é um movimento que visa unificar as culturas de Desenvolvimento (Dev) e 
 Qual dos conceitos abaixo **NÃO** é listado como uma das dificuldades essenciais encontradas para construir um software, segundo as fontes?
 
 a) Complexidade
+
 b) Invisibilidade
+
 c) Facilidade de Mudanças
+
 d) Modularidade
+
 
 **Resposta correta:** d) Modularidade
 
@@ -131,9 +135,13 @@ d) Modularidade
 O Git, um Sistema de Controle de Versões Distribuído (DVCS), manipula o código em três áreas principais. Qual área é responsável por armazenar temporariamente os arquivos que o desenvolvedor pretende versionar antes de realizar o *commit*?
 
 a) Working Directory (Diretório de Trabalho)
+
 b) Repository (Repositório)
+
 c) Stage (Área Intermediária)
+
 d) Main Branch
+
 
 **Resposta correta:** c) Stage (Área Intermediária)
 
@@ -141,9 +149,13 @@ d) Main Branch
 Qual dos seguintes itens é um propósito central do Maven em um projeto de software, além da Gerência de Dependências?
 
 a) Ser o Repositório Central para todos os artefatos de software.
+
 b) Ser o Servidor de Integração Contínua (CI).
+
 c) Automatizar o processo de *Build*, que inclui etapas como teste automatizado, compilação e empacotamento.
+
 d) Implementar o ciclo Red, Green, Refactor do TDD.
+
 
 **Resposta correta:** c) Automatizar o processo de *Build*, que inclui etapas como teste automatizado, compilação e empacotamento.
 
@@ -151,9 +163,13 @@ d) Implementar o ciclo Red, Green, Refactor do TDD.
 O princípio **FIRST** para a escrita de testes de unidade de qualidade inclui a característica de que os testes devem ser **Repeatable (Repetível)**. O que significa essa característica?
 
 a) Os testes devem ter o mesmo resultado se executados N vezes.
+
 b) A ordem de execução dos testes não deve alterar o resultado.
+
 c) O resultado deve ser imediato (Passou/Falhou) para o desenvolvedor.
+
 d) Os testes devem ser executados apenas no final do projeto, para garantir a repetibilidade.
+
 
 **Resposta correta:** a) Os testes devem ter o mesmo resultado se executados N vezes.
 
@@ -161,28 +177,40 @@ d) Os testes devem ser executados apenas no final do projeto, para garantir a re
 Qual é a ordem correta das etapas no ciclo de desenvolvimento Test Driven Development (TDD)?
 
 a) Verde (escrever código) -> Vermelho (escrever teste) -> Refatorar.
+
 b) Vermelho (escrever teste que falha) -> Verde (escrever código mínimo) -> Azul (Refatorar).
+
 c) Refatorar -> Verde (escrever código) -> Vermelho (escrever teste).
+
 d) Escrever teste -> Refatorar -> Escrever código.
+
 
 **Resposta correta:** b) Vermelho (escrever teste que falha) -> Verde (escrever código mínimo) -> Azul (Refatorar).
 
 ### Questão 6 (Teste Mock)
 Ao realizar Teste de Unidade, é uma boa prática substituir uma dependência complexa (como acesso a um Web Service ou Banco de Dados) por um **Objeto Mock**. A técnica de design de código que permite que o objeto mock seja inserido na classe testada de forma controlada é conhecida como:
 
-a) Injeção de Dependências.
-b) Teste Baseado em Estado.
-c) Gerência de Configuração.
-d) TDD.
+a) Injeção de Dependências
+
+b) Teste Baseado em Estado
+
+c) Gerência de Configuração
+
+d) TDD
+
 
 **Resposta correta:** a) Injeção de Dependências.
 
 ### Questão 7 (CI/CD - Conceitos)
 Qual é a principal diferença entre **Continuous Deployment (Deployment Contínuo)** e **Continuous Delivery (Entrega Contínua)**, de acordo com as fontes?
 
-a) Deployment Contínuo permite *branches* de longa duração, enquanto Entrega Contínua não.
-b) Deployment Contínuo exige que *todo commit* possa entrar em produção imediatamente, enquanto na Entrega Contínua, a entrada em produção é autorizada manualmente.
-c) Deployment Contínuo depende de *feature flags*, enquanto Entrega Contínua não.
-d) Deployment Contínuo é usado apenas em aplicações móveis e desktop, e Entrega Contínua em aplicações web.
+a) Deployment Contínuo permite *branches* de longa duração, enquanto Entrega Contínua não
+
+b) Deployment Contínuo exige que *todo commit* possa entrar em produção imediatamente, enquanto na Entrega Contínua, a entrada em produção é autorizada manualmente
+
+c) Deployment Contínuo depende de *feature flags*, enquanto Entrega Contínua não
+
+d) Deployment Contínuo é usado apenas em aplicações móveis e desktop, e Entrega Contínua em aplicações web
+
 
 **Resposta correta:** b) Deployment Contínuo exige que *todo commit* possa entrar em produção imediatamente, enquanto na Entrega Contínua, a entrada em produção é autorizada manualmente.
